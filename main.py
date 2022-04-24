@@ -1,6 +1,3 @@
-from pip import main
-
-
 def main() -> None:
     print("python music")
 
